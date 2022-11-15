@@ -12,9 +12,9 @@ ht-degree: 85%
 ---
 
 
-# Metagegevens voor intern gebruik
+# Metadata voor intern gebruik
 
-De [!DNL metadata.md] Het bestand bevat metagegevens op repo-niveau die worden doorgegeven aan de gebruikershandleiding [!DNL TOC.md] in de revisie. Als u de content van metadata.md voor om het even welke gebruikershandleiding wilt veranderen, doet u dit in om het even welk TOC.md-bestand.
+De [!DNL metadata.md] Het bestand bevat metagegevens op repo-niveau die worden doorgegeven aan de gebruikershandleiding [!DNL TOC.md] in de revisie. Als u de inhoud van metadata.md voor een handleiding wilt wijzigen, doe dit dan in een TOC.md-bestand.
 
 | metadata | wat het doet |
 |--- |--- |
